@@ -1,3 +1,8 @@
+---
+name: skill-thinking
+description: Use when a request needs deliberate requirement review before action, including ambiguity checks, scope confirmation, and clarifying questions before implementation.
+---
+
 # Thinking Skill — 작업 전 사고 및 질문 우선 지침
 
 ## 1. 목적
